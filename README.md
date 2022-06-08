@@ -27,3 +27,9 @@ Print both player's moves in the format: `Player (Rock) : CPU (Paper)`
 Check both player's moves: 
 If there is a winner, print the winner, and the program ends. 
 If it's a tie (the computer and player pick the same move), restart the game from step 3
+
+This game comprises of 3 rounds, if any any of the participants wins 2 even, authomaticallly that player is a winner.
+It has modules in a directory called localpackage and with the name myFunctions. 
+and the functions where imported into the main file 
+the main file has one function which iterates over again if there is a tie.
+Enjoy!
